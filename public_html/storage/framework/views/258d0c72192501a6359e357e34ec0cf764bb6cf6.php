@@ -1,0 +1,3 @@
+<svg wire:loading.remove.delay="1" wire:target="mountTableAction('preview', '34')" class="filament-link-icon w-4 h-4 mr-1 rtl:ml-1" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15 5v2m0 4v2m0 4v2M5 5a2 2 0 00-2 2v3a2 2 0 110 4v3a2 2 0 002 2h14a2 2 0 002-2v-3a2 2 0 110-4V7a2 2 0 00-2-2H5z"/>
+</svg><?php /**PATH /home/u726706882/domains/sistem.amanatkilatsemesta.com/public_html/storage/framework/views/70388cd13c376cd44b4794333a6b9085f93e48a6.blade.php ENDPATH**/ ?>
